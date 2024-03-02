@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\bin\Debug\net8.0\Koleksiyonlar-soru-2.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\bin\Debug\net8.0\Koleksiyonlar-soru-2.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\bin\Debug\net8.0\Koleksiyonlar-soru-2.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\bin\Debug\net8.0\Koleksiyonlar-soru-2.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\bin\Debug\net8.0\Koleksiyonlar-soru-2.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\Koleksiyonlar-soru-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\Koleksiyonlar-soru-2.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\Koleksiyonlar-soru-2.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\Koleksiyonlar-soru-2.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\Koleksiyonlar-soru-2.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\refint\Koleksiyonlar-soru-2.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\Koleksiyonlar-soru-2.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\Koleksiyonlar-soru-2.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\PatikaOdev2\Koleksiyonlar-soru-2\obj\Debug\net8.0\ref\Koleksiyonlar-soru-2.dll

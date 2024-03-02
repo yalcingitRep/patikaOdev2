@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+
+            "task": "build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\PatikaOdev2\\Koleksiyonlar-soru-2\\Koleksiyonlar-soru-2.csproj",
+            "file": "C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\PatikaOdev2\\Koleksiyonlar-soru-2\\Koleksiyonlar-soru-2.csproj",
+            "label": "build soru2",
+            "type": "dotnet",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
